@@ -1,0 +1,233 @@
+canonical_identifier: bkk:krp/KR6i0550/v1
+canonical_location: https://kanripo.org/bkk/KR6i0550/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 占察善惡業報經行法
+  identifiers:
+    alt_id:
+    - X74n1485
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1485.xml
+    old_id: X74n1485
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0550_000.yaml, hash: 'sha256:2c961675906bc7c3ebbf26ebb963c5ddbf6af685dfabe3582f554eff85807993'}
+  - {seq: 1, filename: KR6i0550_001.yaml, hash: 'sha256:e13dc2221e92246c1631ee60ff0fdc2731b872ac3852f7fedfb678b264cae2ad'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0550_000.markers.yaml, hash: 'sha256:bd3747d5283d8a8d6e2f9f7bd503f86f8f076175e642a00e7a9ce2fd1cd0f8b2'}
+  - {seq: 1, role: markers, filename: assets/KR6i0550_001.markers.yaml, hash: 'sha256:443efb511fd17233fb8c12e5539726b29335433fe63cc67cd346d23a31e8cd24'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0550_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 占察經行法目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 7401
+  label: 占察善惡業報經行法
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 緣起第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-2
+    span:
+    - body
+    - 232
+    - 232
+  label: 勸修第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-3
+    span:
+    - body
+    - 415
+    - 415
+  label: 簡擇同行第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-4
+    span:
+    - body
+    - 533
+    - 533
+  label: 占察輪相第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-5
+    span:
+    - body
+    - 628
+    - 628
+  label: 正修懺法第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-6
+    span:
+    - body
+    - 642
+    - 642
+  label: 第一嚴淨道場
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-7
+    span:
+    - body
+    - 687
+    - 687
+  label: 第二清淨三業
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-8
+    span:
+    - body
+    - 846
+    - 846
+  label: 第三香華供養
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-9
+    span:
+    - body
+    - 1293
+    - 1293
+  label: 第四啟請三寶諸天
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-10
+    span:
+    - body
+    - 2073
+    - 2073
+  label: 第五讚禮三寶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-11
+    span:
+    - body
+    - 3277
+    - 3277
+  label: 第六修行懺悔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-12
+    span:
+    - body
+    - 3969
+    - 3969
+  label: 第七發勸請願
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-13
+    span:
+    - body
+    - 4029
+    - 4029
+  label: 第八發隨喜願
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-14
+    span:
+    - body
+    - 4091
+    - 4091
+  label: 第九發迴向願
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-15
+    span:
+    - body
+    - 4138
+    - 4138
+  label: 第十補發願及端坐靜室稱念名號
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-16
+    span:
+    - body
+    - 4610
+    - 4610
+  label: 別明二種觀道第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-17
+    span:
+    - body
+    - 6639
+    - 6639
+  label: 附占輪相法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-18
+    span:
+    - body
+    - 7291
+    - 7291
+  label: 附懺壇中齋佛儀
+  type: mulu
+  level: 1
+hash: sha256:758ef453c7fa14e45cb5c181805257f2522217c586525f1a81560c394b7b511a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

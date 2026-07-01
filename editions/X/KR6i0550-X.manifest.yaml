@@ -1,0 +1,228 @@
+canonical_identifier: bkk:krp/KR6i0550/X/v1
+canonical_location: https://kanripo.org/bkk/KR6i0550/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 占察善惡業報經行法
+  identifiers:
+    krp: KR6i0550
+    cbeta: X74n1485
+    cbeta_old_id: X74n1485
+    authorityid: CA0004020
+    json_key: X1485
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1485.xml
+    old_id: X74n1485
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0550_000-X.yaml, hash: 'sha256:0839864c836a715fe9a253c26a012c40eda58d0e0dc49880c9365c2cac519528'}
+  - {seq: 1, filename: KR6i0550_001-X.yaml, hash: 'sha256:ae45423b34ec8b8b705b965691524b56b706f2cef9c9443309758342f99a98e3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0550_000-X.markers.yaml, hash: 'sha256:e895d29898cdc18a56dc85d33602414d9168164c2278a5a85826f8180d615bbf'}
+  - {seq: 1, role: markers, filename: assets/KR6i0550_001-X.markers.yaml, hash: 'sha256:64e6f81780fa18bb1fc3834a9b872baabaad244305393b4904808f153a8d262c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0550_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 占察經行法目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 7401
+  label: 占察善惡業報經行法
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 緣起第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-2
+    span:
+    - body
+    - 232
+    - 232
+  label: 勸修第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-3
+    span:
+    - body
+    - 415
+    - 415
+  label: 簡擇同行第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-4
+    span:
+    - body
+    - 533
+    - 533
+  label: 占察輪相第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-5
+    span:
+    - body
+    - 628
+    - 628
+  label: 正修懺法第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-6
+    span:
+    - body
+    - 642
+    - 642
+  label: 第一嚴淨道場
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-7
+    span:
+    - body
+    - 687
+    - 687
+  label: 第二清淨三業
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-8
+    span:
+    - body
+    - 846
+    - 846
+  label: 第三香華供養
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-9
+    span:
+    - body
+    - 1293
+    - 1293
+  label: 第四啟請三寶諸天
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-10
+    span:
+    - body
+    - 2073
+    - 2073
+  label: 第五讚禮三寶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-11
+    span:
+    - body
+    - 3277
+    - 3277
+  label: 第六修行懺悔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-12
+    span:
+    - body
+    - 3969
+    - 3969
+  label: 第七發勸請願
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-13
+    span:
+    - body
+    - 4029
+    - 4029
+  label: 第八發隨喜願
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-14
+    span:
+    - body
+    - 4091
+    - 4091
+  label: 第九發迴向願
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-15
+    span:
+    - body
+    - 4138
+    - 4138
+  label: 第十補發願及端坐靜室稱念名號
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-16
+    span:
+    - body
+    - 4610
+    - 4610
+  label: 別明二種觀道第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-17
+    span:
+    - body
+    - 6639
+    - 6639
+  label: 附占輪相法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0550_X_001-mulu-18
+    span:
+    - body
+    - 7291
+    - 7291
+  label: 附懺壇中齋佛儀
+  type: mulu
+  level: 1
+hash: sha256:d5e5fb7a2d6e594f027916923dc5c60caaebe9478a57a81f13706bf90472eee7
