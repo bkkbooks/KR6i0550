@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR6i0550/x/v1/juan/0
 seq: 0
 front:
-  text: 占察經行法目次緣起第一勸修第二簡擇同行第三占察輪相第四正修懺法第五別明二種觀道第六附占輪相法附懺壇中齊佛儀占察經行法目次終
-  hash: sha256:fb8d44816dfc71c19f80c82a698154757ef83d3dbd10446b09a585d870ffb21b
+  text: 占察經行法目次緣起第一勸修第二簡擇同行第三占察輪相第四正修懺法第五別明二種觀道第六附占輪相法附懺壇中齋佛儀占察經行法目次終
+  hash: sha256:646b3e8363b0d91aa3c18f2a21194578bbbdbb3145018744e0504dd93c2c23a6
   markers:
   - {type: 其他, offset: 0, content: 占察經行法目次, id: KR6i0550_X_000-mulu-1, level: '1'}
 body:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X74/X74n1485.xml
     old_id: X74n1485
-hash: sha256:2c961675906bc7c3ebbf26ebb963c5ddbf6af685dfabe3582f554eff85807993
+hash: sha256:0839864c836a715fe9a253c26a012c40eda58d0e0dc49880c9365c2cac519528
