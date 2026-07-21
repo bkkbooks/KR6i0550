@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0550_000.yaml, hash: 'sha256:0839864c836a715fe9a253c26a012c40eda58d0e0dc49880c9365c2cac519528'}
+  - {seq: 0, filename: KR6i0550_000.yaml, hash: 'sha256:eb732390a8424cf03da274ec066918841df9d1d4c9a4c7b4fee85c6494d8c190'}
   - {seq: 1, filename: KR6i0550_001.yaml, hash: 'sha256:e2f9098df6763d6aeb4670e818a4ae3c603996ce4e1f9e294ebae034c2fa5141'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0550_000.markers.yaml, hash: 'sha256:af5a0dbfee54bc72079d9bef09866dbe81d6b3747d758a01e24ea18fa82bc56b'}
+  - {seq: 0, role: markers, filename: assets/KR6i0550_000.markers.yaml, hash: 'sha256:e165cd15a2fb7d85c94d6316c68cdd584152d74e4ab9604bdf567201c4cbf6b0'}
   - {seq: 1, role: markers, filename: assets/KR6i0550_001.markers.yaml, hash: 'sha256:5ade32282e995b3082cbff9ac0ef0bf4a3c011c6f4b64d5f3ab3da89d6e18b60'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6i0550_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 占察經行法目次
@@ -227,7 +227,7 @@ table_of_contents:
   label: 附懺壇中齋佛儀
   type: mulu
   level: 1
-hash: sha256:77dd62752b7adac5a5a4c6cdf90ebaaf1eb9a9c89863974df42c26c8ded33948
+hash: sha256:ccf93390de73675fefdc28fd40b9ac2325573106cc21db132eacffe39c2dcd52
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
